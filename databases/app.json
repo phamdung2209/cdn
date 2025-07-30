@@ -1,0 +1,107 @@
+{
+  "id": "0mE4l5LuhbTVTgY9EeCv",
+  "_id": "0mE4l5LuhbTVTgY9EeCv",
+  "shopifyDomain": "mage-quizz-dung.myshopify.com",
+  "isInstalled": true,
+  "isActiveInstall": true,
+  "uid": "uQye2ezkNBW69vM6tzQZjjPa8gr1",
+  "vendor": "shopify",
+  "email": "dungpv@avadagroup.com",
+  "name": "Mage Quizz Dung",
+  "shopifyPlanDisplayName": "Developer Preview",
+  "shopifyPlanName": "partner_test",
+  "shopCountry": "US",
+  "dateFormat": "{{Month}} {{dd}}, {{yyyy}}",
+  "appInstallationId": "gid://shopify/AppInstallation/840698495274",
+  "isHideSetupGuide": 0,
+  "isShowComingFeaturesBanner": true,
+  "mantleApiToken": null,
+  "status": true,
+  "isNonDevShop": false,
+  "canLeaveReview": false,
+  "crispSessionToken": "mif-f209e472-30db-4464-88a8-ca3b75b5c8d6",
+  "planDiscountCycle": 0,
+  "domain": "mage-quizz-dung.myshopify.com",
+  "promoType": null,
+  "isTrialUsed": true,
+  "integrations": {
+    "airReviews": true
+  },
+  "showCardPost": true,
+  "maxIGFetch": 50,
+  "upgradedPro": true,
+  "translationsConfig": {
+    "generalInfo": false,
+    "mediaContent": false
+  },
+  "isOnTrial": false,
+  "testTool": {
+    "liveStore": true
+  },
+  "tracking": {
+    "firstFeedCreatedAt": "2025-07-15T03:15:06.620Z",
+    "doneOB": true
+  },
+  "isFirstLogin": false,
+  "installedAt": "2025-07-09T15:05:22.543Z",
+  "review": {
+    "clickedAt": "2025-07-23T03:34:53.894Z"
+  },
+  "reviewHacking": {
+    "createFeedCount": 4,
+    "firstPop": false,
+    "firstEntryChecked": true,
+    "hadNoDataOnFirstEntry": true
+  },
+  "collectReview": {
+    "isBlockHighlight": true,
+    "isLockAutoSyncDaily": true,
+    "hE": true,
+    "iI": 0,
+    "analytic": {
+      "timeInsights": false
+    },
+    "openSyncSet": false,
+    "feedShown": true
+  },
+  "setupGuide": {
+    "taggedPosts": true,
+    "productPost": true,
+    "taggedProds": true
+  },
+  "feedConfigs": {
+    "productPosts": {
+      "ratioTT": "1/1",
+      "ratioIG": "4/5"
+    },
+    "autoPlayOne": false
+  },
+  "uninstallReason": "",
+  "planInterval": "monthly",
+  "userTempSub": null,
+  "subscriptionDate": "2025-07-29T09:11:15.291Z",
+  "trialEndsAt": "2025-07-29T09:11:15.291Z",
+  "plan": "pro",
+  "subStartAt": "2025-07-29T09:11:13.713Z",
+  "recurChargeId": "35106292010",
+  "planDiscountCode": null,
+  "shopAccount": {
+    "isFirstSync": true
+  },
+  "bannerVisibility": {},
+  "shopifyCountry": "US",
+  "shopifyPlan": "partner_test",
+  "firstName": "Phạm Văn Dũng",
+  "currency": "USD",
+  "timezone": "(GMT-05:00) America/New_York",
+  "ianaTimezone": "America/New_York",
+  "appBlockStatus": true,
+  "createdDate": "2025-02-13T03:32:39-05:00",
+  "themeId": 177158979882,
+  "isOs2Theme": true,
+  "moneyFormats": {
+    "moneyFormat": "${{amount}}",
+    "moneyWithCurrencyFormat": "${{amount}} USD"
+  },
+  "usedTrialDays": 16
+}
